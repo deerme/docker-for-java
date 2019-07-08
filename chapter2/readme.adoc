@@ -70,8 +70,8 @@ CMD echo "Hello world"
 . List image: `docker image ls`
 . History of image: `docker image history helloworld`
 . Run container: `docker container run helloworld`
-. Explain `--compress`
-. Explain `--squash`
+. Explain `--compress` (comprimir contenido hacia el host docker)
+. Explain `--squash` (unificar layer para comprimir)
 
 === 2.5 Create first Java Docker image
 
